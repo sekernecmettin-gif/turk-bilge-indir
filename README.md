@@ -3,6 +3,8 @@
 Türkiye Yüzyılı Maarif Modeli'ne uygun **9–12. sınıf lise tarih dersi etkileşimli harita programı**.
 Öğretmenler için akıllı tahtada kullanılan tarih atlası.
 
+🌐 Tanıtım sayfası: **https://sekernecmettin-gif.github.io/turk-bilge-indir/**
+
 > Program yapımcısı: **Tarih Öğretmeni Necmettin ŞEKER**
 
 ## Kurulum dosyaları
