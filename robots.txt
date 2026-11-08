@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sekernecmettin-gif.github.io/turk-bilge-indir/sitemap.xml
